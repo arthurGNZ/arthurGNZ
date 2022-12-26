@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arthurGNZ, currently, I'm a student of Computer technician at IFSC(Brazil);
-- 👀 I’m interested in Web and Mobile development;
-- 🌱 I’m currently learning JS, HTML, CSS and PHP;
+- 👋 Hi, I’m @arthurGNZ, I'm a technician of Computer science formed at IFSC(Brazil);
+- 👀 I’m interested in Web development;
+- 🌱 I’m currently learning JS, more specifically React JS;
 - 📫 You can reach me on my email: 'grasnieviczarthur@gmail.com';
