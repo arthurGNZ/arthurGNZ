@@ -1,4 +1,4 @@
-👋 Hello, world!
+👋 Hi there!
 
 Welcome to my GitHub! I'm a front-end developer passionate about creating dynamic and user-focused web experiences. Here's a bit about me:
 🎓 About Me
